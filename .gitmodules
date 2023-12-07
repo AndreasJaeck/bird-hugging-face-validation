@@ -1,0 +1,4 @@
+[submodule "DAMO-ConvAI"]
+	path = DAMO-ConvAI
+	url = https://github.com/AlibabaResearch/DAMO-ConvAI.git
+	branch = main
